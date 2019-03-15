@@ -2,4 +2,7 @@ In Saharan regions of Algeria, Date Palm disease and pests are major threats for
 
 In order to ensure the accuracy and effectiveness of AI model, we focused on two (02) types of date palm infection, one from fungi date palm disease known as brown spots (Mycosphaerella tassiana) and other from pest attack known as white scale or (Parlatoria blanchardii). with over 3000 image datasets, the trained model achieved an accuracy of 98%.
 
-The collected data has 3315 images of Date Palm leaves healthy, infested by White Scale pest and brownspots disease, took with different positions and backgrounds. This data is resized to 224x224 pixels and divided to Five (05) class labels used for training model, from which two (02) are assigned to healthy (1203 images) and brownspots(470 images), three (03) are assigned to White Scale Date Palm spread to three stages of infestation: first stage (with 490 images), second (583 images) and third stage (569 images). 
+The collected data has 3315 images of Date Palm leaves healthy, infested by White Scale pest and brownspots disease, took with different positions and backgrounds. This data is resized to 224x224 pixels and divided to Five (05) class labels used for training model, from which two (02) are assigned to healthy (1203 images) and brownspots(470 images), three (03) are assigned to White Scale Date Palm spread to three stages of infestation: first stage (with 490 images), second (583 images) and third stage (569 images).
+
+        Deglatix-/Figure 12.png
+      
